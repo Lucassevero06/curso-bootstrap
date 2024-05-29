@@ -4,6 +4,10 @@ body {
     height: 100vh;
 }
 
+h1, h2, h3, h4, h5, p, a {
+    font-family: "Montserrat", sans-serif;
+}
+
 .texto-menor {
     font-size: 13px;
 }
@@ -26,10 +30,6 @@ body {
 
 .posicao{
     top: 40%;
-}
-
-.titulos-com-borda {
-    font-family: "Montserrat", sans-serif;
 }
 
 @media(max-width: 767px){
