@@ -26,10 +26,6 @@ body {
     top: 40%;
 }
 
-.fundo-preto-gradiente {
-
-}
-
 @media(max-width: 767px){
     .posicao{
         top:60%;
