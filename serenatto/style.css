@@ -43,3 +43,11 @@ input[type=checkbox]:checked, input[type="checkbox"]:focus {
 .banners-titulo {
     --bs-bg-opacity: .2;
 }
+
+.botao-padrao {
+    background-color: var(--marrom-clar0);
+}
+
+.botao-padrao:hover {
+    background-color: var(--marrom-escuro);
+}
